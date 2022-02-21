@@ -1,5 +1,5 @@
 # Hi, I’m Donald Truong!   [![JotaroDance](https://emoji.gg/assets/emoji/5769_JotaroDance.gif)](https://emoji.gg/emoji/5769_JotaroDance)
-<a href=https://www.linkedin.com/in/truong-duy-12a4b5188/> <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn"> </a> <img src="https://komarev.com/ghpvc/?username=anhduy1202&color=blue">
+<a href=https://www.linkedin.com/in/truong-vo-nhat-625176204 /> <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn"> </a> <img src="https://komarev.com/ghpvc/?username=anhduy1202&color=blue">
 
 👨 My name is Donald Truong and I'm a Software Engineer in the Da Nang city, from Viet Nam.
 
